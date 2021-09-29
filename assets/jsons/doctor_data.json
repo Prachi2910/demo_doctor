@@ -1,0 +1,12 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "Dr Alan Hathaway",
+      "image": "",
+      "profession" : "Cardiovascular",
+      "rating" : 4.8,
+      "reviews" : 177
+    }
+  ]
+}

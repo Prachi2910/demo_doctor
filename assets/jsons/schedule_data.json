@@ -1,0 +1,39 @@
+{
+  "schedules": [
+    {
+      "id": "1",
+      "name": "Dr Alan Hathaway",
+      "image": "",
+      "date" : "Sun, Jan 15, 09:00am - 12:00am",
+      "profession" : "Cardiovascular"
+    },
+    {
+      "id": "2",
+      "name": "Dr Alan Hathaway",
+      "image": "",
+      "date" : "Sun, Jan 15, 09:00am - 12:00am",
+      "profession" : "Cardiovascular"
+    },
+    {
+      "id": "3",
+      "name": "Dr Alan Hathaway",
+      "image": "",
+      "date" : "Sun, Jan 15, 09:00am - 12:00am",
+      "profession" : "Cardiovascular"
+    },
+    {
+      "id": "4",
+      "name": "Dr Alan Hathaway",
+      "image": "",
+      "date" : "Sun, Jan 15, 09:00am - 12:00am",
+      "profession" : "Cardiovascular"
+    },
+    {
+      "id": "5",
+      "name": "Dr Alan Hathaway",
+      "image": "",
+      "date" : "Sun, Jan 15, 09:00am - 12:00am",
+      "profession" : "Cardiovascular"
+    }
+  ]
+}
